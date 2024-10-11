@@ -23,4 +23,4 @@ depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve s
 ## Saída
 
 Ao final deve se exibir uma mensagem:
-"O Herói tem de saldo de **{saldoVitorias}** e está no nível de **{nivel}**"
+"O Herói **{heroi}** tem **{saldoVitorias}** de saldo de vitórias e está no nível de **{classificacao}**"
