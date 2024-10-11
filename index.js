@@ -20,7 +20,7 @@ function classificacao(saldoVitorias = 0){
         classificacao = "Imortal"
     }
 
-    console.log(`O Herói ${heroi} tem de saldo de ${saldoVitorias} e está no nível de ${classificacao}`)
+    console.log(`O Herói ${heroi} tem ${saldoVitorias} de saldo de vitórias e está no nível de ${classificacao}`)
 }
 
 var heroi = "Gustavo"
